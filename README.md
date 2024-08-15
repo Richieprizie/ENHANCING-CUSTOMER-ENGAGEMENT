@@ -28,8 +28,10 @@ Richard Gilbert Jr.
 Company X aimed to boost customer retention and engagement through data-driven strategies. By employing RFM analysis, the objective was to segment customers, distinguish between high-value and churn-prone segments, and develop tailored marketing strategies for improved engagement and retention.
 ## Tools and Data
 - **Analysis Tool**: Excel
-- [Kaggle.com](https://www.kaggle.com)
-- 
+- **Analysis Tool**: Power Point
+## Data source
+-- [Kaggle.com](https://www.kaggle.com)
+
 ## Objective
 The primary goal was to use RFM analysis to:
 - Segment customers into meaningful groups.
