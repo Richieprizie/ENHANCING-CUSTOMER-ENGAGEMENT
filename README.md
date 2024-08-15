@@ -1,6 +1,4 @@
 # ENHANCING-CUSTOMER-ENGAGEMENT
-# Enhancing Customer Engagement: Analysis for Company X
-
 **Project Overview:**
 This project aimed to improve customer retention and engagement for Company X, an e-commerce platform. Utilizing RFM (Recency, Frequency, Monetary) analysis, we sought to identify top customers for retention efforts and address churn through targeted engagement strategies.
 
@@ -25,7 +23,7 @@ Richard Gilbert Jr.
 5. [Conclusion](#conclusion)
 
 ## Background
-Company X aimed to boost customer retention and engagement through data-driven strategies. By employing RFM analysis, the objective was to segment customers, distinguish between high-value and churn-prone segments, and develop tailored marketing strategies for improved engagement and retention.
+Company X aimed to boost customer retention and engagement through data-driven strategies. By employing RFM analysis using Excel, the objective was to segment customers, distinguish between high-value and churn-prone segments, and develop tailored marketing strategies for improved engagement and retention. The primary focus was to showcase advanced PowerPoint skills by creating a visually compelling presentation that effectively communicated the analysis and insights.
 ## Tools and Data
 - **Analysis Tool**: Excel
 - **Analysis Tool**: Power Point
